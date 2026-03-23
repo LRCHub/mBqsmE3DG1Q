@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SCOPE",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-23T19:17:41.215024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enter the Scope",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/01_Enter_the_Scope_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Under The Scope",
+      "artist": "Curren$y",
+      "has_synced": false,
+      "path": "select/02_Life_Under_The_Scope_Curren$y.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scope",
+      "artist": "Bowling for Soup",
+      "has_synced": false,
+      "path": "select/03_Scope_Bowling_for_Soup.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss Me Through the Scope",
+      "artist": "Thaiboy Digital",
+      "has_synced": false,
+      "path": "select/04_Kiss_Me_Through_the_Scope_Thaiboy_Digital.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kaleido Scope",
+      "artist": "Ugress",
+      "has_synced": false,
+      "path": "select/05_Kaleido_Scope_Ugress.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scope Set",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/06_Scope_Set_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SCOOP SCOPE",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/07_SCOOP_SCOPE_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SCOOP SCOPE",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/08_SCOOP_SCOPE_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scope",
+      "artist": "Bowling For Soup",
+      "has_synced": true,
+      "path": "select/09_Scope_Bowling_For_Soup.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Scope Of Obsession",
+      "artist": "Carnifex",
+      "has_synced": true,
+      "path": "select/10_The_Scope_Of_Obsession_Carnifex.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lookin Through the Scope",
+      "artist": "Chris Travis",
+      "has_synced": true,
+      "path": "select/11_Lookin_Through_the_Scope_Chris_Travis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scope J",
+      "artist": "Ute Lemper",
+      "has_synced": false,
+      "path": "select/12_Scope_J_Ute_Lemper.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scope",
+      "artist": "Gaijin",
+      "has_synced": false,
+      "path": "select/13_Scope_Gaijin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Psyche Or Like Scope",
+      "artist": "Family of the Year",
+      "has_synced": true,
+      "path": "select/14_Psyche_Or_Like_Scope_Family_of_the_Year.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Scope of All of This Rebuilding",
+      "artist": "The Hotelier",
+      "has_synced": true,
+      "path": "select/15_The_Scope_of_All_of_This_Rebuilding_The_Hotelier.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "kalei de scope",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/16_kalei_de_scope_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "kalei de scope",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/17_kalei_de_scope_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "kalei de scope",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/18_kalei_de_scope_TK_from_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SCOPE",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_SCOPE_Aimer.txt"
+    }
+  ]
+}
